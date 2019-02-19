@@ -3,4 +3,9 @@ Plus, simple example of using [React Hooks](https://reactjs.org/docs/hooks-intro
 
 This app simply displays current time (updated every second).
 
+To run:
+
+- yarn
+- yarn start
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
